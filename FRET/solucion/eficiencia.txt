@@ -1,0 +1,6 @@
+concentracion(micromolar),eficiencia
+13,0.418
+22.29,0.710
+29.25,0.939
+34.67,0.976
+39,0.987
